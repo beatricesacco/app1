@@ -40,3 +40,5 @@ body {
 
 x<sup>2</sup>  
 y<sub>3</sub>
+
+:smile:
