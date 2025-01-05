@@ -8,13 +8,19 @@
 
 Progetto 1 con **Git** e **GitHub**  
 Corso di _Gianluca_
+parola sia in **_grassetto che in corsivo_**
 
 Parola <mark>evidenziata</mark>.
 
 > Testo in evidenza  
 > Seconda riga
+>
+> > Riga annidata
+> >
+> > > Riga ancora più annidata
 
-[Sito personale](https://sito1.com)
+[Sito personale](https://sito1.com)  
+https://www.sito1.com
 
 ```js
 console.log(1);
